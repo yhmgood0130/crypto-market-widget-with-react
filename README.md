@@ -16,3 +16,7 @@ Simply add lines of code below once you run 'npm start'
   style="border: none;"
   width="100%"
 ></iframe>
+
+### Deployed website
+
+<a href="https://crypto-widget-display.web.app/">[Click Here]</a>
