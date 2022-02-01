@@ -9,7 +9,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Using a widget in a standalone HTML
 
-Simply add lines of code below
+Simply add lines of code below once you run 'npm start'
 
 <iframe
   src="http://localhost:3000"
