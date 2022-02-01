@@ -58,10 +58,6 @@
 .price-change {
   margin-top: 3px;
 }
-.price-change.danger::before {
-  content: "+";
-  color: #cf304a;
-}
 .price-change.danger {
   color: var(--danger);
 }
